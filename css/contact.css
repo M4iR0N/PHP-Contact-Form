@@ -1,5 +1,5 @@
 /* Contact form CSS */
-/* Created by Ryan Newton */
+/* Created by Ryan */
 h1 {
   font-size: 30px;
   font-family: 'Rajdhani',sans-serif;
@@ -95,7 +95,7 @@ input[type=email], select, textarea {
 /* Contact form page end */
 /* ===================================================================== */
 /* Navigation bar all screen size attributes */
-/* Created by Ben Richards */
+/* Created by Ben */
 
 #nav_ul {
   list-style: none; 
@@ -163,7 +163,7 @@ input[type=email], select, textarea {
 @media (min-width: 900px) {
   
   /* Navigation bar hover effect when not responsive */
-    /* Created by Ben Richards */
+    /* Created by Ben */
   #nav_ul li a,
   #nav_ul li a:after,
   #nav_ul li a:before {
@@ -193,7 +193,7 @@ input[type=email], select, textarea {
 @media screen and (max-width: 900px) {
   
   /* Resonsive navigation bar */
-  /* Created by Ben Richards */
+  /* Created by Ben */
   #hamburger {
     display: block;
     position: absolute;
