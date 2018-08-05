@@ -1,5 +1,5 @@
 <?php
-require 'connect.php';
+require 'connect.php'; /* Use connect.php file */
 $conn    = Connect();
 $name    = $conn->real_escape_string($_POST['u_name']);
 $email   = $conn->real_escape_string($_POST['u_email']);
